@@ -165,5 +165,6 @@ color: white
 @media(min-width: 788px){
     .calc-conteiner{
         width: 80%;
+        margin: auto;
     }
 }
